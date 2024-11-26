@@ -1,0 +1,32 @@
+# Build output
+bin/
+obj/
+
+# NuGet Packages
+packages/
+
+# Visual Studio Temporary Files
+*.suo
+*.user
+*.v12.suo
+*.v14.suo
+*.v15.suo
+*.v16.suo
+*.v17.suo
+*.v19.suo
+*.v20.suo
+
+# IDE-specific files
+.vs/
+.idea/
+
+# Temporary Files
+*.tmp
+*.bak
+*.old
+
+# Sensitive Information (adjust as needed)
+appsettings.json
+web.config
+secrets.txt
+.DS_Store

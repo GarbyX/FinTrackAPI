@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FinTrackAPI.props" />
+</Project>
